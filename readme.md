@@ -14,3 +14,5 @@ INTERMIDIATE LEVEL
 
 TASK-1 Exploratory Data Analysis On Dataset- Terrorism
 
+
+TASK-2 Prediction using Decision Tree Algorithm
